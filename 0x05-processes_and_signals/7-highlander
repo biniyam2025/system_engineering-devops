@@ -3,7 +3,7 @@
 
 trap 'echo "I am invincible!!!"' 1
 
-whihile true
+hihwhile true
 do
 	echo "To infinity and beyond"
 	sleep 2
