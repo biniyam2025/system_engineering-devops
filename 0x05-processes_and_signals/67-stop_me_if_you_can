@@ -3,3 +3,4 @@
 
 echo "OK"
 pkill -f 7-highlander
+
